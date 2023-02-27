@@ -3,11 +3,6 @@
 - 🌱 I’m currently learning Java, C#, HTML, CSS e JavaScript. 
 - 📫 How to reach me: tauanivitoria1302@gmail.com
 - 😄 Pronouns: she
-----------------------------------------------------
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/TataVicanuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---------------------------------------------------------------------
 
