@@ -9,5 +9,4 @@
 -----------------------------------------------------------------------------------
 <a href = "https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance"> Clique aqui, para acessar a API</a>
 
- (https://github-readme-stats.vercel.app/api/top-langs/?TataVic=anuraghazra&hide_progress=true)
- (https://github-readme-stats.vercel.app/api/pin/?TataVic=anuraghazra&repo=github-readme-stats)
+ (https://github-readme-stats.vercel.app/api/top-langs/?TataVic=TataVic&hide_progress=true)
