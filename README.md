@@ -5,7 +5,7 @@
 <img width="55" title="githubzin" src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966"> <img>
   <p>Seja bem-vindo ao meu perfil!</p>
 
-Tecnologias que estou desenvolvendo:  
+Tecnologias que estou utilizando no momento:  
 ---
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
