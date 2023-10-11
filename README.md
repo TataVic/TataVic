@@ -1,4 +1,4 @@
-<p align = "center" >Seja bem-vindo ao meu perfil!</p>
+<p align = "center">Seja bem-vindo ao meu perfil!</p>
 <div align = "center">
 <img width="55" title="githubzin" src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966"> <img>
 
@@ -43,3 +43,4 @@ Redes Sociais:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TataVic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+[![Snake animation](https://github.com/TataVic/TataVic/blob/output/github-contribution-grid-snake.svg)]
