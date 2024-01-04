@@ -1,10 +1,7 @@
 <p align = "center">Seja bem-vindo ao meu perfil!</p>
 <div align = "center">
-  <img width= 55 src="https://github.com/TataVic/TataVic/assets/120256512/676f77f3-245e-4ae0-b11c-c81b096fd337"
-
-</img>
-
-  
+  <img class="imagem" width= 55 src="https://github.com/TataVic/TataVic/assets/120256512/676f77f3-245e-4ae0-b11c-c81b096fd337"> </img>
+ 
 # Olá! Sou a Tauani Vitória
 ## Sou programadora em desenvolvimento e almejo ser uma futura analista de desenvolvimento de sistemas💻⏳
 
