@@ -1,6 +1,7 @@
 <p align = "center">Seja bem-vindo ao meu perfil!</p>
 <div align = "center">
-<img width="55" title="githubzin" src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA"> <img>
+![githubzin](https://github.com/TataVic/TataVic/assets/120256512/676f77f3-245e-4ae0-b11c-c81b096fd337)
+
 
   
 # Olá! Sou a Tauani Vitória
