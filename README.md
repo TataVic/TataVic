@@ -2,8 +2,8 @@
 <div align = "center">
   <img class="imagem" width= 55 src="https://github.com/TataVic/TataVic/assets/120256512/676f77f3-245e-4ae0-b11c-c81b096fd337"> </img>
  
-# Olá! Sou a Tauani Vitória
-## Sou programadora em desenvolvimento e almejo ser uma futura analista de desenvolvimento de sistemas💻⏳
+### Olá! Sou a Tauani Vitória
+### Sou programadora em desenvolvimento e almejo ser uma futura analista de desenvolvimento de sistemas💻⏳
 
 Tecnologias que estou utilizando no momento:  
 ---
@@ -12,7 +12,7 @@ Tecnologias que estou utilizando no momento:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![sqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![sqlServer](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 📚 Estão em desenvolvimento de aprendizagem: 
 ---
