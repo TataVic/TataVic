@@ -1,26 +1,32 @@
-<!-- Banner de boas-vindas -->
+<!-- Banner e título -->
+<h1 align="center">👩‍💻 Tauani Vitória</h1>
+<h3 align="center">Desenvolvedora em evolução | Futura Analista de Sistemas ⚙️</h3>
+
 <p align="center">
-  <img width="70" src="https://github.com/TataVic/TataVic/assets/120256512/676f77f3-245e-4ae0-b11c-c81b096fd337" alt="logo"/>
+  <img src="https://github.com/TataVic/TataVic/assets/120256512/676f77f3-245e-4ae0-b11c-c81b096fd337" width="90" alt="Logo"/>
 </p>
 
-<h2 align="center">Olá! 👋 Sou a <strong>Tauani Vitória</strong></h2>
-<p align="center">Programadora em desenvolvimento e aspirante a Analista de Desenvolvimento de Sistemas 💻</p>
+<p align="center">💡 Apaixonada por tecnologia, lógica e por transformar ideias em código limpo e funcional.</p>
 
 ---
 
-### 🚀 Tecnologias que utilizo no momento
+### 🧠 Tech Stack
+> Linguagens e ferramentas que utilizo no meu dia a dia:
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ---
 
-### 📚 Em aprendizado constante
+### ⚡ Em constante aprendizado
+> Explorando novas tecnologias para expandir horizontes técnicos e criativos:
+
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -33,7 +39,7 @@
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/tauani-degrandi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -59,14 +65,13 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Insights
 <p align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TataVic&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TataVic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TataVic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TataVic&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 <p align="center">
-  <sub>✨ “Transformando curiosidade em código e desafios em aprendizado.” ✨</sub>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=00A8E8&center=true&vCenter=true&width=440&lines=Building+clean+code+💻;Learning+every+day+🌱;Tu
